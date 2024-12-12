@@ -1,5 +1,7 @@
 # Alura Plus 🎓💻
 
+![Finalizado](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 Repositório do Alura Plus, um aplicativo desenvolvido com o objetivo de exibir uma página promocional com descontos exclusivos para cursos da Alura. Este projeto busca unir design responsivo e funcionalidade para oferecer uma experiência de navegação simples e eficiente.
 
 ## Objetivo
